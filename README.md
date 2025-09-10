@@ -1,4 +1,3 @@
-# alphashape_optimization
 
 # Optimization of 2D Surface Detection and Edge Reconstruction using Alpha Shape
 
@@ -82,3 +81,4 @@ The optimized algorithm drastically reduces processing time while maintaining ac
 ```bash
 git clone <your-repo-url>
 cd <repo-directory>
+
