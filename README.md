@@ -60,7 +60,8 @@ Optimized alpha shapes were used to generate polygon clusters representing accid
 
 
 The optimized algorithm drastically reduces processing time while maintaining accuracy.
-
+![Alt text](alpha.png)
+![Alt text](convex.png)
 
 ## Conclusion
 - Polygons are essential for representing 2D spatial clusters.
@@ -81,4 +82,5 @@ The optimized algorithm drastically reduces processing time while maintaining ac
 ```bash
 git clone <your-repo-url>
 cd <repo-directory>
+
 
